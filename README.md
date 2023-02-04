@@ -1,7 +1,7 @@
 # superskidmark.github.io
 
 ## my band
-my band: [fleetingconfidence.com]
+my band: [my band](fleetingconfidence.com)
 🎸 🎵 🎤
 big one text
 
